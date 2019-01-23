@@ -44,6 +44,9 @@ For this challenge, I went ahead and added in April data as well.  The primary r
 ![Week-by-week image](week-by-week.png)
 
 #### Challenge 9 & 10
-I completed this task with a bar plot that displays the top 20 station lines ranked by traffic from March 18 through June 2018.  As an added bonus, I highlighted the top 8 by displaying them in coral, rather than default blue. 
+I completed this task with a bar plot that displays the top 20 station lines ranked by traffic from March 18 through June 2018.  As an added bonus, I highlighted the top 8 by displaying them in coral, rather than default blue.  
+
+A primary concern of mine as I was using this table is that I did not limit my ridership counts to weekday ridership.  In the scope of the original Benson project, we are informed that the target audience includes locals and students, both of whom use public transportation most on weekdays.  By including ridership data of weekends, I potentially list stations that have high ridership as a result of tourism. 
 
 ![Top 20 stations by ridership](top20.png)
+
