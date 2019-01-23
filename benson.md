@@ -17,7 +17,7 @@ I saw these challenges as primarily a task of cleaning the data.  Here is a quic
 #### Challenge 4 
 For this challenge, I took a single turnstile defined by `control`,`unit`, and `scp` from Grand Station.  In a previous iteration of this part of my code, I had narrowed down my results through time stamps, which was an inefficient method since I had to manually view the time stamps to know whether I had the right data or not.  For added understanding, I presented 3 graphs here, one for entries, one for exits, and one for total ridership (entries+exits).  
 
-![Turnstile image](/station.png)
+![Turnstile image](turnstile.png)
 
 
 As can be seen, results are fairly predictable, with consistent dips in weekends.  Notably, there are two dips in weekdays on the 7 and 21, both of which were days where there was winter storms.  This will come back up again in a later graph.
